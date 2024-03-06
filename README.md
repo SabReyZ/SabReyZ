@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![pixel](https://cdn.europosters.eu/image/750/wall-murals/rainbow-pattern-pixel-416x254-cm-130g/m2-vlies-non-woven-i35614.jpg)
+<img src="https://cdn.europosters.eu/image/750/wall-murals/rainbow-pattern-pixel-416x254-cm-130g/m2-vlies-non-woven-i35614.jpg" alt="pixel" width="900">
+
 <!--|...|..| tableau
 **..** gras
 # h1
