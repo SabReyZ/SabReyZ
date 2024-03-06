@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<h1 style="color:violet">H<span style="color:pink">e<span style="color:blue">l<span style="color:green">l<span style="color:yellow">o<span style="color:orange"> w<span style="color:red">o<span>r<span>l<span>d<span><h1>
+
 
 <!--
 **SabReyZ/SabReyZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![pixel](https://cdn.europosters.eu/image/750/wall-murals/rainbow-pattern-pixel-416x254-cm-130g/m2-vlies-non-woven-i35614.jpg)
+<!--|...|..| tableau
+**..** gras
+# h1
+## h2-->
