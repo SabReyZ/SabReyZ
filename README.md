@@ -1,5 +1,5 @@
 
-<h1 style="color:violet">H<span style="color:pink">e<span style="color:blue">l<span style="color:green">l<span style="color:yellow">o<span style="color:orange"> w<span style="color:red">o<span>r<span>l<span>d<span><h1>
+<h1> <span style="color:violet">H</span><span style="color:pink">e</span><span style="color:blue">l</span><span style="color:green">l</span><span style="color:yellow">o</span><span style="color:orange"> w</span><span style="color:red">o</span>rld</h1>
 
 
 <!--
